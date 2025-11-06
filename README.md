@@ -8,6 +8,10 @@ Pythonの練習を兼ねて作成しました。
 - 日付・金額などの基本的なバリデーション
 - pandasによる仕訳一覧出力
 
+- # Tags
+accounting / bookkeeping / python / automation / study
+
+
 ## 注意
 個人の学習目的で作成したものであり、業務利用は想定していません。
 
