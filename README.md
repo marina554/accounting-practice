@@ -1,18 +1,17 @@
-# Pythonで作る仕訳自動化スクリプト
+# Journal Entry Automation Script in Python
 
-このリポジトリは、会計処理の自動化をテーマにした学習記録です。  
-Pythonの練習を兼ねて作成しました。
+This repository is a learning record focused on automating accounting processes.  
+It was created as a Python practice project.
 
-## 内容
-- 勘定科目の自動判定
-- 日付・金額などの基本的なバリデーション
-- pandasによる仕訳一覧出力
+## Features
+- Automatic classification of account titles
+- Basic validation for dates, amounts, etc.
+- Journal entry list output using pandas
 
-- # Tags
+## Tags
 accounting / bookkeeping / python / automation / study
 
+## Note
+This project was created for personal learning purposes and is not intended for professional use.
 
-## 注意
-個人の学習目的で作成したものであり、業務利用は想定していません。
-
-経理業務の自動化やPython学習をしている方の工夫もぜひ教えてください。
+I would love to hear any ideas or improvements from others who are automating accounting tasks or learning Python.
